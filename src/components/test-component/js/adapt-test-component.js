@@ -12,6 +12,7 @@ define([
 
         postRender: function() {
             console.log("postRender");
+			console.log("Hello World");
             // IMPORTANT!
             // Both of the following methods need to be called inside your view.
 
